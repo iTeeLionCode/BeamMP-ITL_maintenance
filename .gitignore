@@ -1,0 +1,6 @@
+*
+!.gitignore
+!/LICENSE
+!/README.md
+!/Resources/Server/ITL_maintenance/*
+/Resources/Server/ITL_maintenance/config/main.json
