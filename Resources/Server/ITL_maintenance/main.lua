@@ -19,7 +19,6 @@ function onInit()
     function OnPlayerAuthHandler(playerName, playerRole, isGuest, identifiers)
         if pluginConfig.isEnabled == true then
             local res = isUserAllowed(playerName)
-            print(res)
             if res ~= true then
                 return pluginConfig.maintenanceMessage
             end
