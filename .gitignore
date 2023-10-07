@@ -1,0 +1,8 @@
+*
+!.gitignore
+!/LICENSE
+!/README.md
+!/db.sql
+!/Config/mysql.json.example
+!/Resources/Server/ITL_adverts
+/Resources/Server/ITL_adverts/config/main.json

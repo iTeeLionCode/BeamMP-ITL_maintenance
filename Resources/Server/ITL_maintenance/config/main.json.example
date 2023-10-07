@@ -1,0 +1,7 @@
+{
+    "isEnabled": true, 
+    "maintenanceMessage": "Sorry, server is under maintenance now, please connect later!",
+    "allowedUsers": [
+        "SuperAdminNickname"
+    ]
+}
