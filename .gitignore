@@ -2,7 +2,5 @@
 !.gitignore
 !/LICENSE
 !/README.md
-!/db.sql
-!/Config/mysql.json.example
-!/Resources/Server/ITL_adverts
-/Resources/Server/ITL_adverts/config/main.json
+!/Resources/Server/ITL_maintenance/*
+/Resources/Server/ITL_maintenance/config/main.json
